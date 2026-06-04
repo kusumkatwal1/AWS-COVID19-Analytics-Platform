@@ -11,6 +11,25 @@ AWS COVID-19 Data Pipeline and Analytics Platform project using Amazon S3, AWS G
     IAM
     
 # Project Architecture
+        COVID CSV Files
+        ↓
+        Amazon S3 Raw Layer 
+        ↓ 
+        AWS Glue Crawler 
+        ↓ 
+        AWS Glue Data Catalog 
+        ↓ 
+        AWS Glue PySpark ETL Job 
+        ↓ 
+        Silver Layer Partitioned Parquet 
+        ↓
+        Gold Layer Dimensional Models
+        ↓
+        Amazon Athena Analytics 
+        ↓
+        Amazon Redshift Data Warehouse 
+        ↓
+        SQL BI Reporting
 
 # Structure 
  - 'README.md'-walkthrough about project
