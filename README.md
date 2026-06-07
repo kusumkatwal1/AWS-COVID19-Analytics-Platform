@@ -32,8 +32,8 @@ AWS COVID-19 Data Pipeline and Analytics Platform project using Amazon S3, AWS G
         SQL BI Reporting
 
 # Structure 
- - 'README.md- _walkthrough about project_
- - 'Detailed_AWS_COVID19_Project_Submission_Guide.pdf' - _stepwise detail given for the whole process or the given project_
+     - 'README.md- _walkthrough about project_
+     - 'Detailed_AWS_COVID19_Project_Submission_Guide.pdf' - _stepwise detail given for the whole process or the given project_
 
    
 @Kusum Katwal
