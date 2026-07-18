@@ -33,8 +33,8 @@ AWS COVID-19 Data Pipeline and Analytics Platform project using Amazon S3, AWS G
 
 # File Structure 
      - "README.md" - walkthrough about the project
-     - "Detailed_AWS_COVID19_Project_Submission_Guide.pdf" - this file contains the step-by-step details for the whole process of the 
-     given project.
+     - "Detailed_AWS_COVID19_Project_Submission_Guide.pdf" - this file contains the step-by-step details for the whole 
+         process of the given project.
 
    
 @Kusum Katwal
